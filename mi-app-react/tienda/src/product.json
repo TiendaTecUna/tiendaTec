@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Pelota de espuma",
+        "price": 500,
+        "stock": 10,
+        "img": "/images/logo192.png"
+    },
+    {
+        "id": 2,
+        "name": "Corazón juguete",
+        "price": 350,
+        "stock": 5,
+        "img": "/images/logo192.png"
+    }
+]
