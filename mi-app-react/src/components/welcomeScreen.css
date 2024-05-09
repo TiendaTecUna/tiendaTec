@@ -1,0 +1,36 @@
+/* WelcomeScreen.css */
+.welcome-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Asegura que el contenedor tome toda la altura de la pantalla */
+    text-align: center;
+    background-color: #f0f0f0; /* Un fondo neutro */
+    color: #333; /* Color del texto */
+}
+
+.welcome-title {
+    margin-bottom: 20px; /* Espacio entre el título y cualquier contenido debajo */
+    font-size: 2rem; /* Tamaño grande para el título */
+}
+
+.login-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-bottom: 20px; /* Espacio entre el botón y cualquier contenido debajo */
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.login-button:hover {
+    background-color: #0056b3;
+}

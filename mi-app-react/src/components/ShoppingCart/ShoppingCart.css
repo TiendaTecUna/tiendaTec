@@ -1,0 +1,26 @@
+.div-container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.cart{
+    padding: 10px 25px;
+}
+.div-products{
+    display: flex;
+   
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.div-container > button{
+    padding: 10px;
+    background-color: blue; /* Color de fondo del botón */
+    color: white; /* Color de texto del botón */
+    border: none;
+    border-radius: 5px; /* Bordes redondeados del botón */
+    cursor: pointer;
+}

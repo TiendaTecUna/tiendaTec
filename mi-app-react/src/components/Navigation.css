@@ -1,0 +1,44 @@
+/* Estilos para la barra de navegación */
+nav {
+    background-color: #343a40;
+    color: white;
+    padding: 0.8rem 1rem;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente la lista */
+    padding: 0.8rem 1rem;
+    line-height: 1.5; /* Ajusta la línea de altura para mejorar el ajuste del texto */
+
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-around;  /* Distribuye los elementos uniformemente */
+    flex-wrap: wrap;  /* Permite que los elementos se ajusten en líneas múltiples si es necesario */
+    align-items: center;  /* Alinea los elementos verticalmente */
+    width: 100%;  /* Asegura que el `ul` utilice todo el ancho disponible */
+    margin: 0;
+}
+  
+  nav ul li {
+    margin: 0 10px;
+  }
+  
+  nav ul li a,
+  nav ul li button {
+    text-decoration: none; /* Elimina el subrayado de los enlaces */
+    color: white;
+    background-color: transparent;
+    border: none;
+    padding: 0.5rem 1rem; /* Añade un relleno interno a los elementos */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Añade una transición suave */
+    padding: 10px 15px; 
+    min-width: 120px; /* Establece un ancho mínimo para cada enlace/botón */
+    text-align: center;
+  }
+  
+  nav ul li a:hover,
+  nav ul li button:hover {
+    background-color: #555; /* Cambio de color al pasar el ratón */
+  }

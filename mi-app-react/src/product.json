@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone Premium",
+        "description": "Smartphone de última generación con pantalla AMOLED de 6.5 pulgadas y cámara triple de 48 MP.",
+        "price": 999.99,
+        "stock": 50,
+        "image": "https://th.bing.com/th/id/OIP.8zOELjqL_DnlDF3QRpT-2QHaEK?rs=1&pid=ImgDetMain"
+    },
+    {
+        "id": 2,
+        "name": "Laptop Profesional",
+        "description": "Laptop potente y ligera, ideal para profesionales y creativos, con procesador de 8 núcleos y pantalla de 15 pulgadas 4K.",
+        "price": 1500,
+        "stock": 30,
+        "image": "https://th.bing.com/th/id/OIP.0NN2nNYrNgMLNJYCsI1PwQHaHa?w=213&h=213&c=7&r=0&o=5&dpr=1.4&pid=1.7"
+    },
+    {
+        "id": 3,
+        "name": "Auriculares Inalámbricos",
+        "description": "Auriculares inalámbricos con cancelación de ruido activa, 20 horas de autonomía y carga rápida.",
+        "price": 199.99,
+        "stock": 100,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71IvLIxaLCL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cámara Mirrorless",
+        "description": "Cámara mirrorless de alto rendimiento con sensor de 24 MP, video 4K y conectividad Wi-Fi.",
+        "price": 1200,
+        "stock": 15,
+        "image": "https://cdn.mos.cms.futurecdn.net/rreKoWJ7aH8WEw2rJSPhaT.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Tableta Gráfica",
+        "description": "Tableta gráfica con sensibilidad a la presión para diseñadores y artistas digitales, incluye stylus.",
+        "price": 300,
+        "stock": 40,
+        "image": "https://th.bing.com/th/id/R.bc9ea117cd5cb46d5b2ebe69830362d0?rik=dKKRe6oIEccDsQ&riu=http%3a%2f%2fblog.soltekonline.com%2fcontent%2fimages%2f2019%2f01%2fimage-10.png&ehk=RK9h3jKFgann4IYQnjmoOZ6YaY84ffZOJdA265fBpus%3d&risl=&pid=ImgRaw&r=0"
+    }
+]
